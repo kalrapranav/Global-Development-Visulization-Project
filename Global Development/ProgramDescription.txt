@@ -1,0 +1,18 @@
+Name: Pranav Kalra
+Class: CS 108-3
+RedId: 821916362
+
+The Following Porgram imports an  external Libray, global devlopmet. The appliucation gives the user a choice for getting a  reported or selected Data. 
+If the user selected Report, he or she gets a choice between 
+1. Health Data
+2. Urban Development Data
+3. Rural Devlopment Data 
+4. Infrastucre Data
+and if the user selected SELECTED, he/she selected teh desired, country, year, data type, and sub category of development data under data category and teh application searches for the user's choice and prints the data desired by teh user.
+Library Used : https://think.cs.vt.edu/corgis/java/health/docs/index.html
+
+The programs, ZIp file contains; 
+1. Program description file 
+2. ScreenShot folder for porgram's output
+3. ScreenShot folder for program's code, with library displayed
+4. The program's source code is in the scr folder
